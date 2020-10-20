@@ -33,8 +33,8 @@ lite8 https://github.com/lite8
 ver. 0.1
 
 __toc__
-Sudoku v.1|Your Name|0123456789...128x128
-Fulltris|Your Friend Name|0123456789...128x128
+Sudoku v.1|Your Name|proto/sudoku1.lite.txt|0123456789...128x128
+Fulltris|Your Friend Name|/games/0123456789...128x128
 ```
 
 ## Repositories File: `sites.lite.txt`
