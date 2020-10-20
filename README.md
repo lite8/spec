@@ -14,6 +14,11 @@ begin
 end;
 
 
+__palette__
+0|ff8800
+a|aabbcc
+f|0088ff
+
 __sprite__
 0123456789...128
 
